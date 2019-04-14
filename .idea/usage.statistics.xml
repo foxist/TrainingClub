@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="619715763">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Enter the theme" value="1" />
+          <entry key="class" value="9" />
+          <entry key="form" value="3" />
+          <entry key="fox" value="2" />
+          <entry key="java" value="550" />
+          <entry key="jpg" value="2" />
+          <entry key="png" value="3" />
+          <entry key="txt" value="105" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="GUI_DESIGNER_FORM" value="3" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="550" />
+          <entry key="PLAIN_TEXT" value="108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="100" />
+          <entry key="fox" value="25" />
+          <entry key="java" value="58923" />
+          <entry key="txt" value="320" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="58923" />
+          <entry key="PLAIN_TEXT" value="445" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+</project>

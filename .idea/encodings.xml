@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/GetCompPasswordTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data/GetCounterTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data/GetDayTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data/GetExerciseTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data/GetUserTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataset/dataset/XYDataSetTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/datatext/GetDayOfTrainingTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/datatext/GetExerciseOfTrainingDayTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/resources/exercise/exercises.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/resources/exercise/help.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/resources/statistic/of_fox.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/io/DataText.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/button/start/Start.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/button/user/UserButton.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/check/CheckAccount.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/enter/EnterPanel.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/exercise/Exercise.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/mainpanel/MainPanel.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/registration/User.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/statistic/Statistic.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/text/help/Help.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/training/Training.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/trainingpanel/TrainingPanel.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/com/company/view/window/Window.java" charset="windows-1251" />
+  </component>
+</project>
